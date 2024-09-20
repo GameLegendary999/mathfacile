@@ -8,7 +8,7 @@ permettant d’effectuer des opérations mathématiques très simples.
 1/
     Hypatie d’Alexandrie
     Ada Lovelace
-
+    Edsger Dijkstra
 
 2/
     puissance
